@@ -1,4 +1,4 @@
-### Ciphar100 - multiclass-classification-of-images
+### Cifar100 - multiclass-classification-of-images
 
 #### INTRODUCTION:
 
