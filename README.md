@@ -8,5 +8,6 @@ Data Description:
 
 The CIFAR-100 dataset consists of 60000 32x32 color images in 100 different classes,
 With 600 images per class. The dataset consists of 50000 training samples and 10000 testing samples, with 500 images per class for the training samples and 100 images per class for the testing samples.
+
 ![image](https://user-images.githubusercontent.com/44158047/86245206-d24ba600-bbb1-11ea-98ce-dbf1219a20cf.png)
 
