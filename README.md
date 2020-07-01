@@ -13,3 +13,10 @@ With 600 images per class. The dataset consists of 50000 training samples and 10
 
 ![image](https://user-images.githubusercontent.com/44158047/86245206-d24ba600-bbb1-11ea-98ce-dbf1219a20cf.png)
 
+#### Conclusion
+Through these three models, we examined image calssification from 3 different models.
+The first two models show you that deeper neural network is not allways the solution to improve your model, even when you luck of resources you can create a good model.
+But given higher computational power we believes that we can achieve better results,
+Even if we will take our second model we believe with enough epochs and more neural layers you can achieve a really good results (even better from the VGG model).
+
+
